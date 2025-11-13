@@ -1,10 +1,10 @@
 apiVersion: v2
-name: librarian
-description: librarian Argo CD Apps of Apps for kast
-version: 1.2.1
+name: runicSystem
+version: 1.2.0
+description: indexer of glyphs lexicon based
 home: https://github.com/kast-spells
 sources:
-  - https://github.com/kast-spells/kast-release
+  - https://github.com/kast-spells/kast-system
 maintainers:
   - name: namen malkav
     email: namenmalkav@gmail.com
